@@ -5,6 +5,9 @@
 
 dist 
 
+#python virtual env stuff
+*venv-*
+
 # User-specific files
 *.rsuser
 *.suo
