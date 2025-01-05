@@ -5,8 +5,8 @@
 
 dist 
 
-#pythion virtual envs
-venv*
+#python virtual env stuff
+*venv-*
 
 # User-specific files
 *.rsuser
@@ -16,6 +16,9 @@ venv*
 *.sln.docstates
 #draw.io backups
 *.bkp
+#other backups
+*bak
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
