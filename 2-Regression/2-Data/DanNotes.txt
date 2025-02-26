@@ -1,0 +1,10 @@
+
+Start with a dataframe
+df = pd.read_csv([file location])
+
+df.isnull() returns a same-size dataframe of all the null cells.
+.sum() sums across specified axis or all of them
+
+df.drop() drops columns
+
+
